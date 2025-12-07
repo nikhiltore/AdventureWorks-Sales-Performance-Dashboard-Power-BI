@@ -4,12 +4,12 @@ This project presents an interactive Power BI dashboard built using the popular 
 **📁 Project Overview:**
 The AdventureWorks dataset is a standard sample database used for analytical and reporting practice.
 This dashboard provides insights across:
-•	📦 Product performance
-•	👥 Customer segmentation
-•	🌍 Regional sales analysis
-•	📈 Revenue & profit trends
-•	🕒 Time-based insights (YoY, MoM)
-•	🛒 Sales channel and category insights
+•	Product performance
+•	Customer segmentation
+•	Regional sales analysis
+•	Revenue & profit trends
+•	Time-based insights (YoY, MoM)
+•	Sales channel and category insights
 
 **🛠️ Tools & Technologies:**
 •	Power BI Desktop
